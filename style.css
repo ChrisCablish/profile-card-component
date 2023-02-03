@@ -29,10 +29,33 @@ body {
     justify-content: center;
 }
 main {
-    border: 1px solid black;
     
+    
+    
+    display: inline-block;
     
 }
+
+.profile-stats {
+    display: flex;
+    background-color: white;
+
+}
+
+.profile-info {
+    position: relative;
+    background-color: white;
+}
+ 
+.profile-info img {
+    position: absolute;
+    top: -50%;
+    left: 50%;
+    transform: translate(-50%, -1em);
+    border-radius: 50%;
+}
+    
+
 /*BACKGROUND*/
 
 .background-container {
