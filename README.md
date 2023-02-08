@@ -9,4 +9,5 @@ Built with:
 - Mobile-first workflow
 
 
-
+Solution URL : https://github.com/ChrisCablish/profile-card-component
+Live Page URL: https://chriscablish.github.io/profile-card-component/ 
